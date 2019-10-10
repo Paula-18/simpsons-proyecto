@@ -1,0 +1,28 @@
+body{
+    background-color: black; 
+    margin: 0%;
+}
+
+.espacio{
+    margin-top: 150px;
+}
+
+div{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    color: #E7E7E7;
+    text-align: justify;
+    font-size: 24px;
+    width: 70%;
+    overflow: hidden;
+    margin-left: 300px;
+    margin-right: 230px;
+}
+
+img{
+    text-align: justify;
+    width: 400px;
+    height: 600px;
+    margin-left: 300px;
+    margin-right: 230px;
+}
