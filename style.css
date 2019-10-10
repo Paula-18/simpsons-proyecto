@@ -1,10 +1,50 @@
 body{
-    background-color: black; 
+    background-color: cornflowerblue; 
     margin: 0%;
+}
+
+.banner{
+    width: 1535px;
+    height: 250px;
+    margin: 0;
+    margin-bottom: 0;
+    position: relative;
+    object-position: center;
+}
+
+nav {
+	position: relative;
+	background-color: orange;
+}
+
+nav a {
+	line-height: 50px;
+	height: 100%;
+	font-size: 20px;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	color: black;
+    padding-left: 80px; 
+    margin-left: 80px; 
+    margin-right: -20px; 
+    font-family: 'Poppins', sans-serif;   
+    margin-top: 0;       
 }
 
 .espacio{
     margin-top: 150px;
+}
+
+#letrero
+{
+    font-size: 30px;
+    margin: 0;
+    margin-left: 230px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 div{
